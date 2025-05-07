@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jocelyne</h1>
-<h3 align="center">Data Analyst & Industrial Engineer | Passionate about data, efficiency, and optimization </h3>
+<h3 align="center">Data Analyst & Industrial Engineer | Passionate about data, efficiency and optimization </h3>
 
 ---
 
